@@ -1,0 +1,17 @@
+{
+  "name": "SunSafe Pro Voice AI - Benue",
+  "short_name": "SunSafe Voice AI",
+  "description": "Voice AI for Kidney & Asthma in Benue State - Speak to get health diagnosis",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFBF7",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
